@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<title>Central Museum Indore 
+</title>
+</head>
+<body>
+<h3> Contact for more Details: </h3>
+<form>
+Email Id  :  <input type ="text" placeholder="enter your email id "><br>
+Phone no  :  <input type ="text" placeholder="enter phone number ">
+<button type =submit"value="submit">submit </button>
+</form>
+<img src ="Museum indore.png">
+<h3>  Address: </h3>
+<p>  Near GPO Square, Residency, Navlakha, Indore, Madhya Pradesh 452001  </p><br>
+<p>  Hours  : 10am-5pm </p>
+<p>  Closed : Monday Only </p>
+                             </body>
+
+</html>
+
